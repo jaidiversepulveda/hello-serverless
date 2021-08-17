@@ -1,4 +1,4 @@
-service: hello-serverless
+service: hello-serverless-jaidiver
 
 provider:
   name: aws
