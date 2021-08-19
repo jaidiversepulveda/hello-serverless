@@ -1,4 +1,4 @@
-service: aws-python-simple-http-endpoint-jaidiver
+service: aws-python-simple-http-endpoint-jaidi
 
 frameworkVersion: ">=1.2.0"
 
